@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ADC-DAC Converter.PcbDoc   14.06.2025  16:36:17
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ADC-DAC Converter.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             45        PTH        0.00inch (0.00mm)
+T2      17mil (0.432mm)                                           Round             15        PTH        0.00inch (0.00mm)
+T3      30mil (0.762mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T4      37mil (0.95mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)           +0mil (0mm)/-10mil (0.25mm)       Round             24        PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)                                             Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              94
+
+Total Processing Time (hh:mm:ss) : 00:00:00
